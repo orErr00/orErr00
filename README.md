@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 😸I'm a college student from China.
+- 🌱 I’m currently learning C and Python, and looking to learn more about algorithm.
 
 <!--
 **orErr00/orErr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
